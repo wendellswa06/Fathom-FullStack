@@ -1,0 +1,30 @@
+@font-face {
+  font-family: Poppins-SemiBold;
+  src: url("./Poppins-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: Avenir-Light;
+  src: url("./Avenir-Light.ttf");
+}
+
+@font-face {
+  font-family: Avenir-w35-Light;
+  src: url("./Avenir-LT-Std-35-Light_5169.ttf");
+}
+
+.font-avenir-w35-light {
+  font-family: Avenir-w35-Light;
+}
+
+.font-poppins-semibold {
+  font-family: Poppins-SemiBold;
+}
+
+.font-avenir-light {
+  font-family: Avenir-Light !important;
+}
+
+body {
+  font-size: 18px;
+}
